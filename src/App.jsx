@@ -1,5 +1,3 @@
-Creating Supabase-connected workout tracker
-App.jsx
-
+import { useState, useEffect } from "react";
 Presented file
 Done
